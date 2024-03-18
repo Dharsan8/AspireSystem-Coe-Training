@@ -1,0 +1,51 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#FAEBEFFF;
+    padding: 20px 0 20px;
+    overflow: hidden;
+}
+.logo1{
+    width: 90x;
+    height: 40px;
+}
+.logo{
+    float: left;
+}
+
+li{
+    float: right;
+}
+li a{
+    display: block;
+    color: #333D79FF;
+    text-decoration: none;
+    padding: 8px 16px;
+}
+
+.gif{
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+    margin: 40px;
+}
+
+.quotes{
+    font-family:cursive;
+    font-size: 30px;
+    width: 500px;
+    height: 100px;
+    margin: 5px 0px 0px 500px;
+}
+.quotes p{
+    text-shadow: 4px 3px 5px #333D79FF;
+}
+
+.site{
+    margin-top: 90px; 
+    margin-right: 200px; 
+    position: absolute;
+    top: 0;
+    right: 0;
+}
